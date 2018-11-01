@@ -6,6 +6,7 @@ import FetchLocation from "./components/FetchLocation";
 export default class App extends React.Component {
   getUserLocationHandler = () => {
     console.log("button is pressed");
+    
   }
 
   render() {
